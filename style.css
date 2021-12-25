@@ -1,6 +1,9 @@
 .container {
 background-color: #1f2937;
-height: 650px;
+height: 570px;
+width: 11700px;
+margin-left: -10px;
+margin-top: -20px;
 
 }
 
@@ -26,6 +29,85 @@ height: 650px;
     
 }
 
+.text.third{
+    margin-top: -1560px;
+    margin-left: 675px;
+    font-size: 36px;
+    font-weight: 800
+
+}
+
+.text.four{
+    margin-top: 310px;
+margin-left: 480px;
+
+
+}
+
+.text.five{
+    margin-top: -62px;
+    margin-left: 740px;
+
+}
+
+.text.six{
+    margin-top: -60px;
+    margin-left: 995px;
+}
+
+.text.seven{
+    margin-top: -60px;
+    margin-left: 1250px;
+}
+
+.box.one{
+    border-style: solid;
+    border-radius:20px;
+    margin-left: 470px;
+    margin-top: -285px;
+    height: 190px;
+    width: 175px;
+    border-color: blue;
+}
+
+.box.two{
+    border-style: solid;
+    border-radius:20px;
+    margin-left: 256px;
+    margin-top: -5px;
+    height: 190px;
+    width: 175px;
+    border-color: blue;
+}
+
+.box.three{
+    border-style: solid;
+    border-radius:20px;
+    margin-left: 254px;
+    margin-top: -5px;
+    height: 190px;
+    width: 175px;
+    border-color: blue;
+}
+
+.box.four{
+    border-style: solid;
+    border-radius:20px;
+    margin-left: 251px;
+    margin-top: -5px;
+    height: 190px;
+    width: 175px;
+    border-color: blue;
+}
+
+.box.five{
+    margin-top: 380px;
+    margin-left: -1300px;
+    background-color: #E5e7eb;
+    height: 480px;
+    width: 10000px;
+}
+
 .button{
     border-radius: 5px;
     color: #f9faf8;
@@ -48,6 +130,13 @@ height: 650px;
     position: relative;
     top: 90px;
     right: 25px;
+
+}
+
+.container.second{
+    margin-inline-start: 2000px;
+    height: 1800px;
+
 
 }
 
