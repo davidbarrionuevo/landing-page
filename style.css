@@ -1,10 +1,9 @@
 .container {
 background-color: #1f2937;
 height: 570px;
-width: 11700px;
+width: 1910px;
 margin-left: -10px;
 margin-top: -20px;
-
 }
 
 .box{
@@ -60,6 +59,45 @@ margin-left: 480px;
     margin-left: 1250px;
 }
 
+.text.eight{
+font-size: 36px;
+font-style: italic;
+color: #1F2937;
+font-weight: 200;
+margin-left: 135px;
+}
+
+.text.nine{
+    color: #1f2937;
+    font-weight: 800;
+    font-size:30px;
+    margin-top:250px;
+    margin-left:-400px;
+}
+
+.text.ten{
+font-size: 24px;
+font-weight: 800;
+margin-left:145px;
+}
+
+.text.eleven{
+font-size: 20px;
+font-weight: 200;
+}
+
+.container.three{
+    background-color: #3882f6;
+    height: 200px;
+    width: 1400px;
+    margin-top: 120px;
+    margin-left:-978px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center
+   
+}
+
 .box.one{
     border-style: solid;
     border-radius:20px;
@@ -102,11 +140,16 @@ margin-left: 480px;
 
 .box.five{
     margin-top: 380px;
-    margin-left: -1300px;
+    margin-left: -1400px;
     background-color: #E5e7eb;
     height: 480px;
-    width: 10000px;
+    width: 2066px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
+
 
 .button{
     border-radius: 5px;
@@ -134,11 +177,13 @@ margin-left: 480px;
 }
 
 .container.second{
-    margin-inline-start: 2000px;
-    height: 1800px;
+  background-color:white;
+    margin-top: 575px;
+    height: 1200px;
 
 
 }
+
 
 ul{
     
